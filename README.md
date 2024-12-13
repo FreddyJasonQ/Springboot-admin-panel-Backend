@@ -63,7 +63,7 @@ Este es un sistema de gestión de empleados que utiliza Angular para el frontend
    ng serve
    ```
 
-4. Abre tu navegador y accede a `http://localhost:4200` para visualizar la aplicación.
+4. Abre tu navegador y accede a `http://localhost:8081` para visualizar la aplicación.
 
 ## Uso del sistema
 1. Una vez configurada la base de datos y ejecutados el backend y el frontend, abre el navegador en `http://localhost:4200`.
@@ -71,12 +71,6 @@ Este es un sistema de gestión de empleados que utiliza Angular para el frontend
 3. Utiliza las opciones disponibles en el menú lateral para gestionar los empleados.
 
 ## Estructura del proyecto
-
-### Frontend (Angular)
-- **src/app**:
-  - **components**: Contiene los componentes de la aplicación.
-  - **services**: Servicios para la comunicación con el backend.
-  - **models**: Definiciones de las clases de modelo utilizadas en el frontend.
 
 ### Backend (Spring Boot)
 - **src/main/java**:
@@ -90,8 +84,6 @@ Este es un sistema de gestión de empleados que utiliza Angular para el frontend
 - **Diseño responsive**: Adaptado para dispositivos de escritorio y móviles.
 - **Validación de formularios**: Los formularios incluyen validaciones en tiempo real.
 
-## Capturas de pantalla
-Incluye capturas de pantalla de la interfaz de usuario en este apartado para ilustrar el funcionamiento del sistema.
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
